@@ -1,0 +1,43 @@
+[{
+  "id": 1,
+  "name": "iPhone 7 Plus",
+  "description": "Apple, 32GB, RAM: 3GB, iOS13",
+  "price": 17000000,
+  "image": "https://cdn.tgdd.vn/Products/Images/42/78124/iphone-7-plus-32gb-gold-600x600-600x600.jpg",
+  "category_id": 1
+}, {
+  "id": 2,
+  "name": "iPad Pro 2020",
+  "description": "Apple, 128GB, RAM: 6GB",
+  "price": 37000000,
+  "image": "https://chamsocdidong.com/uploads/2020/05/thay-man-hinh-ipad-pro-12-9-2020-3g-a2069-a2232.jpg",
+  "category_id": 2
+}, {
+  "id": 3,
+  "name": "Galaxy Note 10 Plus",
+  "description": "Samsung, 64GB, RAML: 6GB",
+  "price": 24000000,
+  "image": "https://ntstore.com.vn/wp-content/uploads/2022/04/NOTE-10-5G-DA-SA%CC%86%CC%81C.jpeg",
+  "category_id": 1
+}, {
+  "id": 4,
+  "name": "Galaxy Note 10 Plus",
+  "description": "Samsung, 64GB, RAML: 6GB",
+  "price": 24000000,
+  "image": "https://ntstore.com.vn/wp-content/uploads/2022/04/NOTE-10-5G-DA-SA%CC%86%CC%81C.jpeg",
+  "category_id": 1
+}, {
+  "id": 5,
+  "name": "Galaxy Note 10 Plus",
+  "description": "Samsung, 64GB, RAML: 6GB",
+  "price": 24000000,
+  "image": "https://ntstore.com.vn/wp-content/uploads/2022/04/NOTE-10-5G-DA-SA%CC%86%CC%81C.jpeg",
+  "category_id": 1
+}, {
+  "id": 6,
+  "name": "Galaxy Note 10 Plus",
+  "description": "Samsung, 64GB, RAML: 6GB",
+  "price": 24000000,
+  "image": "https://ntstore.com.vn/wp-content/uploads/2022/04/NOTE-10-5G-DA-SA%CC%86%CC%81C.jpeg",
+  "category_id": 1
+}]
